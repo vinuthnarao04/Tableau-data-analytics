@@ -35,8 +35,8 @@ The project includes two main data analysis tasks:
 5.	Data Visualization
 
 ## Project Structure
-
-W Data Analytics/
+'''text
+Tableau Data Analytics/
 │
 ├── Decaboy telemetry data.json
 ├── Task 5 Equity Table
@@ -44,3 +44,4 @@ W Data Analytics/
 │   └── unhealthy
 │
 └── README.md
+'''
